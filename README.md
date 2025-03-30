@@ -6,8 +6,8 @@ This project demonstrates how to **simplify repetitive code using JavaScript fun
 ---
 
 ##  Files  
-- **index.html** → The main webpage that loads the JavaScript file.  
-- **script.js** → Contains different versions of the song function, showing how to optimize repetitive code.  
+- **index.html** The main webpage that loads the JavaScript file.  
+- **script.js**  Contains different versions of the song function, showing how to optimize repetitive code.  
 
 ---
 
@@ -38,5 +38,5 @@ The script follows three steps to optimize the song lyrics:
 ##  Example Output in Console  
 
 
-## 📜 License  
+##  License  
 This project is for educational purposes only. *We Will Rock You* is a song by Queen, and all rights to the lyrics belong to them.
